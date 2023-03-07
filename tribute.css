@@ -1,0 +1,23 @@
+#image {
+  max-width: 80%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#title,
+#subtitle {
+  margin: 1em auto;
+  text-align: center;
+  font-style: italic;
+}
+figcaption {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+#tribute {
+  width: 80%;
+  font-size: 18px;
+  margin: 25px auto;
+}
